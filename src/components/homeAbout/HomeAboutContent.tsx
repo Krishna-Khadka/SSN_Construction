@@ -12,13 +12,13 @@ const HomeAboutContent = () => {
       </div>
       <div className="py-5">
         <h1 className="text-[#0E121D] text-5xl font-extrabold">
-          Our <span className="text-main-color">10</span>{" "}
+        Committed <span className="text-main-color">to</span>{" "}
           <span className="bg-main-color inline-block text-white text-[14px] relative bottom-3 py-3 px-5 rounded-[30px]">
             SSS Construction
           </span>{" "}
           <br />
-          <span className="text-main-color">years</span> working <br />
-          experience
+          <span className="text-main-color">Excellence in</span> Every <br />
+          Build
         </h1>
       </div>
       <div>
